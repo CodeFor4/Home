@@ -1,0 +1,22 @@
+/* most of the styles are using bootstrap */
+
+body{
+    align-content :space-between;
+
+}
+
+#titl{
+    font-family: fantasy;
+    color : white;
+    padding-left: 20%;
+    margin-right : 10%;
+    font-size: 100px;
+}  
+
+.imag{
+    height : 100px;
+    width : 100px;
+}
+.coloro{
+    background-color: #495057;
+}
